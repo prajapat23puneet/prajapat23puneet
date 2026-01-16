@@ -14,7 +14,11 @@
 
 ---
 
+<div align="center">
+
 ## 🎯 About Me
+
+</div>
 
 ```csharp
 var engineer = new SoftwareDeveloper
@@ -33,7 +37,11 @@ var engineer = new SoftwareDeveloper
 };
 ```
 
+<div align="center">
+
 ## 🛠️ Featured Projects
+
+</div>
 
 <table>
 <tr>
@@ -114,9 +122,9 @@ var engineer = new SoftwareDeveloper
 </tr>
 </table>
 
-## 🧰 Tech Arsenal
-
 <div align="center">
+
+## 🧰 Tech Arsenal
 
 ### Backend & Systems
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -152,24 +160,49 @@ var engineer = new SoftwareDeveloper
 
 </div>
 
-## 📊 GitHub Analytics
-
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=prajapat23puneet&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=prajapat23puneet&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajapat23puneet&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Analytics
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/prajapat23puneet">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajapat23puneet&theme=tokyonight" alt="Profile Details"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prajapat23puneet">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajapat23puneet&theme=tokyonight" alt="Stats" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajapat23puneet&theme=tokyonight" alt="Top Languages" height="180"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prajapat23puneet">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajapat23puneet&theme=tokyonight" alt="Productive Time" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajapat23puneet&theme=tokyonight" alt="Repos Per Language" height="180"/>
+  </a>
+</p>
+
+<div align="center">
+
 ## 🎓 Beyond Code
 
-- 📄 **Published Researcher** - Sign Language Recognition (IRJMETS 2023)
-- 🎯 **System Design Enthusiast** - Saga Pattern, Event Sourcing, CQRS
-- 🔧 **Open Source Contributor** - Building tools the community can use
-- 💡 **Continuous Learner** - Currently exploring Distributed Tracing & Observability
+</div>
+
+<div align="center">
+
+📄 **Published Researcher** - Sign Language Recognition (IRJMETS 2023)
+
+🎯 **System Design Enthusiast** - Saga Pattern, Event Sourcing, CQRS
+
+🔧 **Open Source Contributor** - Building tools the community can use
+
+💡 **Continuous Learner** - Currently exploring Distributed Tracing & Observability
+
+</div>
 
 ---
 
