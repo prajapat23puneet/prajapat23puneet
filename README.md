@@ -50,8 +50,8 @@ var engineer = new SoftwareDeveloper
 ### 🏪 Distributed E-Commerce Orchestrator
 **Fault-tolerant microservices without 2PC**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](GITHUB_REPO_URL_HERE)
-[![Demo](https://img.shields.io/badge/Demo-Live-00C7B7?style=flat-square&logo=vercel)](DEMO_URL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/prajapat23puneet/vyaapar-nexus-core)
+[![Demo](https://img.shields.io/badge/Demo-Live-00C7B7?style=flat-square&logo=vercel)](https://vyaapar-nexus.vercel.app/)
 
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -68,8 +68,8 @@ var engineer = new SoftwareDeveloper
 ### 💻 Real-Time Collaborative IDE
 **High-concurrency "Vibe Coding" platform**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](GITHUB_REPO_URL_HERE)
-[![Demo](https://img.shields.io/badge/Demo-Live-00C7B7?style=flat-square&logo=vercel)](DEMO_URL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/prajapat23puneet/nexus-ide)
+[![Demo](https://img.shields.io/badge/Demo-Live-00C7B7?style=flat-square&logo=vercel)](https://nexus-ide.netlify.app/)
 
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -88,8 +88,7 @@ var engineer = new SoftwareDeveloper
 ### 🤖 Autonomous Job Application Agent
 **100% free-to-run AI-powered automation**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](GITHUB_REPO_URL_HERE)
-[![Demo](https://img.shields.io/badge/Demo-Live-00C7B7?style=flat-square&logo=vercel)](DEMO_URL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)]([GITHUB_REPO_URL_HERE](https://github.com/prajapat23puneet/Auto-Apply-Jobs))
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -106,7 +105,7 @@ var engineer = new SoftwareDeveloper
 ### 🎨 Interactive Portfolio Website
 **Modern developer portfolio with 3D animations**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](GITHUB_REPO_URL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/prajapat23puneet/portfolio)
 [![Demo](https://img.shields.io/badge/Demo-Live-00C7B7?style=flat-square&logo=vercel)](https://puneet.is-a.dev)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
