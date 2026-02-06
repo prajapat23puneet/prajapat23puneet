@@ -69,7 +69,7 @@ var engineer = new SoftwareDeveloper
 **High-concurrency "Vibe Coding" platform**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/prajapat23puneet/nexus-ide)
-[![Demo](https://img.shields.io/badge/Demo-Live-00C7B7?style=flat-square&logo=vercel)](https://nexus-ide.netlify.app/)
+[![Demo](https://img.shields.io/badge/Demo-Live-00C7B7?style=flat-square&logo=vercel)](https://nexus-ide.vercel.app/)
 
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
